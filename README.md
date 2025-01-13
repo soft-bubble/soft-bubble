@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game Dev 
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: Tg: @dittoERG
+                      Email: softbubbleerg@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Studying CS currently.
 
