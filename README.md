@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elisabeth Reyes García
 - 👀 I’m interested in Game Dev 
-- 🌱 I’m currently learning C# related enviroments of development 
+- 🌱 I’m currently learning C# related environments of development 
 - 📫 How to reach me: Tg: @dittoERG
                       Gmail: softbubbleerg@gmail.com
 - 😄 Pronouns: she/her
